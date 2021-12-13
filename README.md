@@ -1,1 +1,1 @@
-# samsung-app-challenge-
+# Samsung App Challenge
