@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1125"
+   height="2436"
+   viewBox="0 0 1125 2436"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="timer_activity.svg"
+   inkscape:export-filename="/home/robog/Documents/NeuroTimer/timer_activity_final_mock.png"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:snap-page="true"
+     inkscape:snap-global="true"
+     inkscape:object-paths="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="false"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:zoom="0.70980736"
+     inkscape:cx="509.99753"
+     inkscape:cy="1713.8453"
+     inkscape:window-width="1904"
+     inkscape:window-height="922"
+     inkscape:window-x="8"
+     inkscape:window-y="35"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-midpoints="true" />
+  <defs
+     id="defs2">
+    <rect
+       x="188.17754"
+       y="1826.6667"
+       width="88.294169"
+       height="55.704212"
+       id="rect163411" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient52175">
+      <stop
+         style="stop-color:#ff00bb;stop-opacity:1"
+         offset="0"
+         id="stop52171" />
+      <stop
+         style="stop-color:#560075;stop-opacity:1"
+         offset="1"
+         id="stop52173" />
+    </linearGradient>
+    <rect
+       x="311.3547"
+       y="2140.1337"
+       width="266.74563"
+       height="91.643782"
+       id="rect34956" />
+    <rect
+       x="463.51935"
+       y="2188.8489"
+       width="273.75232"
+       height="69.837074"
+       id="rect30222" />
+    <rect
+       x="338.96328"
+       y="1407.589"
+       width="707.37253"
+       height="73.133348"
+       id="rect11084" />
+    <rect
+       x="166.61075"
+       y="1758.361"
+       width="791.77899"
+       height="562.51415"
+       id="rect46997" />
+    <rect
+       x="166.61075"
+       y="1712.3624"
+       width="791.77899"
+       height="488.90176"
+       id="rect23762" />
+    <rect
+       x="277.45575"
+       y="1333.2348"
+       width="524.62071"
+       height="133.10115"
+       id="rect8688" />
+    <rect
+       x="166.61075"
+       y="1318.2762"
+       width="791.7785"
+       height="325.02873"
+       id="rect28674" />
+    <rect
+       x="166.61133"
+       y="1204.3753"
+       width="682.24859"
+       height="124.85757"
+       id="rect124032" />
+    <rect
+       x="166.61075"
+       y="1624.0132"
+       width="564.17635"
+       height="46.701924"
+       id="rect116791" />
+    <rect
+       x="166.61075"
+       y="1110"
+       width="791.77856"
+       height="420.07022"
+       id="rect101055" />
+    <rect
+       x="166.61075"
+       y="1110"
+       width="791.77856"
+       height="456.40289"
+       id="rect75498" />
+    <rect
+       x="166.61075"
+       y="1110"
+       width="791.77856"
+       height="208.12669"
+       id="rect67140" />
+    <rect
+       x="166.61075"
+       y="1051.1496"
+       width="791.77856"
+       height="210.66142"
+       id="rect63524" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient55248">
+      <stop
+         style="stop-color:#2c2c2c;stop-opacity:1"
+         offset="0"
+         id="stop55244" />
+      <stop
+         style="stop-color:#1d1d1d;stop-opacity:1"
+         offset="1"
+         id="stop55246" />
+    </linearGradient>
+    <rect
+       x="164.0844"
+       y="1018.2089"
+       width="918.70709"
+       height="359.0221"
+       id="rect41859" />
+    <rect
+       x="184.0091"
+       y="347.80206"
+       width="1130.3732"
+       height="789.78727"
+       id="rect19038" />
+    <rect
+       x="174.96022"
+       y="396.09669"
+       width="765.64459"
+       height="423.30012"
+       id="rect11966" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1963">
+      <stop
+         style="stop-color:#ffd541;stop-opacity:1"
+         offset="0"
+         id="stop1959" />
+      <stop
+         style="stop-color:#ff8d3e;stop-opacity:1"
+         offset="1"
+         id="stop1961" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient55248"
+       id="linearGradient55024"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0025217,0,0,1.6000988,-0.2791097,925.18826)"
+       x1="418.39246"
+       y1="30.272255"
+       x2="678.19507"
+       y2="926.35748" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient52175"
+       id="linearGradient52177"
+       x1="-71.086922"
+       y1="1583.4623"
+       x2="562.5"
+       y2="1481.6803"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.6272824,0,554.82053)" />
+    <rect
+       x="166.61075"
+       y="1758.361"
+       width="791.77899"
+       height="562.51416"
+       id="rect46997-4" />
+    <rect
+       x="166.61075"
+       y="1758.361"
+       width="791.77899"
+       height="562.51416"
+       id="rect46997-4-2" />
+    <rect
+       x="166.61075"
+       y="1758.361"
+       width="791.77899"
+       height="562.51416"
+       id="rect46997-4-2-6" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1963"
+       id="linearGradient145038"
+       x1="406.15399"
+       y1="0"
+       x2="562.5"
+       y2="2436"
+       gradientUnits="userSpaceOnUse" />
+    <rect
+       x="188.17754"
+       y="1826.6667"
+       width="88.294167"
+       height="55.704212"
+       id="rect163411-0" />
+    <rect
+       x="188.17754"
+       y="1826.6667"
+       width="88.294167"
+       height="55.704212"
+       id="rect163411-0-2" />
+    <rect
+       x="188.17754"
+       y="1826.6667"
+       width="88.294167"
+       height="55.704212"
+       id="rect163411-0-2-0" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient145038);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.896;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2139"
+       width="1125"
+       height="2436"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:url(#linearGradient55024);fill-opacity:1;fill-rule:evenodd;stroke-width:1.13482;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1596-6"
+       width="1045"
+       height="1392.2467"
+       x="40"
+       y="980"
+       ry="54.330986"
+       rx="54.33099" />
+    <rect
+       style="fill:#5c5c5c;fill-rule:evenodd;stroke-width:0.895748;stroke-linecap:round;stroke-linejoin:round;fill-opacity:0.40188614"
+       id="rect846"
+       width="854.65143"
+       height="18.955843"
+       x="135.17429"
+       y="2394.6182"
+       ry="9.4779215" />
+    <text
+       xml:space="preserve"
+       id="text11964"
+       style="font-weight:300;font-size:533.333px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';white-space:pre;shape-inside:url(#rect11966)" />
+    <text
+       xml:space="preserve"
+       id="text19036"
+       style="font-weight:300;font-size:370.667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:center;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect19038)"
+       transform="translate(-185.76985,153.1701)"
+       x="4.8266249"
+       y="0"><tspan
+         x="375.3793"
+         y="693.44681"
+         id="tspan1011"><tspan
+           style="font-weight:normal;font-family:Poppins;-inkscape-font-specification:Poppins;baseline-shift:baseline"
+           id="tspan1009">13:12</tspan></tspan></text>
+    <path
+       id="path25875"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:18.20000229;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 166.61075,557.79102 c 0,-206.21874 177.24565,-373.39206 395.88925,-373.39206 104.99636,0 205.69234,39.33941 279.93597,109.364 74.24364,70.0246 115.95328,164.99833 115.95328,264.02806"
+       sodipodi:nodetypes="cssc" />
+    <path
+       style="fill:#ff8b00;fill-opacity:1;stroke:none;stroke-width:0.968162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 232.16156,357.15855 66.55155,-122.47461 59.37409,63.91811 -91.19514,96.44053 z"
+       id="path33597"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#ff9900;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8.72015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 188.65973,318.71046 349.58566,270.12338 220.21304,378.13976"
+       id="path32343" />
+    <path
+       style="fill:#ff8000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 189.4869,293.61958 76.38628,-67.28103 85.70717,130.07906 -65.67904,11.55081 z"
+       id="path33120"
+       sodipodi:nodetypes="ccccc" />
+    <circle
+       style="fill:#ffc200;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path31867"
+       cx="272.98132"
+       cy="307.8273"
+       r="55.040798" />
+    <text
+       xml:space="preserve"
+       id="text41857"
+       style="line-height:1.25;font-family:Ubuntu;font-size:16px;-inkscape-font-specification:'Ubuntu Light';font-weight:300;letter-spacing:0px;white-space:pre;shape-inside:url(#rect41859)" />
+    <text
+       xml:space="preserve"
+       id="text63522"
+       style="line-height:1.25;font-family:Ubuntu;font-size:16px;-inkscape-font-specification:'Ubuntu Light';font-weight:300;letter-spacing:0px;white-space:pre;shape-inside:url(#rect63524)" />
+    <text
+       xml:space="preserve"
+       id="text67138"
+       style="line-height:1.25;font-family:Ubuntu;font-size:16px;-inkscape-font-specification:'Ubuntu Light';font-weight:300;letter-spacing:0px;white-space:pre;shape-inside:url(#rect67140)" />
+    <text
+       xml:space="preserve"
+       id="text75496"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1.25;font-family:Sarala;-inkscape-font-specification:Sarala;letter-spacing:0px;white-space:pre;shape-inside:url(#rect75498)" />
+    <text
+       xml:space="preserve"
+       id="text116789"
+       style="line-height:1.25;font-family:Sarala;font-size:16px;-inkscape-font-specification:Sarala;font-weight:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect116791);font-style:normal;font-stretch:normal;font-variant:normal" />
+    <g
+       id="g51614"
+       transform="translate(0,-60)">
+      <text
+         xml:space="preserve"
+         id="text101053"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.333px;line-height:1.25;font-family:Sarala;-inkscape-font-specification:Sarala;letter-spacing:0px;white-space:pre;shape-inside:url(#rect101055);fill:#ffffff;fill-opacity:1"
+         transform="translate(11.286796)"><tspan
+           x="166.61133"
+           y="1222.4236"
+           id="tspan1013">Pre-Calculus</tspan></text>
+      <text
+         xml:space="preserve"
+         id="text124030"
+         style="font-weight:300;font-size:42.6667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';letter-spacing:0px;white-space:pre;shape-inside:url(#rect124032);fill:#aba8a8;fill-opacity:1"
+         transform="translate(224.9449,39.552431)"><tspan
+           x="166.61133"
+           y="1244.1614"
+           id="tspan1017"><tspan
+             style="font-family:Poppins;-inkscape-font-specification:'Poppins Light'"
+             id="tspan1015">25 minute sprint</tspan></tspan></text>
+    </g>
+    <g
+       id="g19546"
+       transform="translate(0,668)">
+      <g
+         id="g52596"
+         transform="translate(-2,86)">
+        <g
+           id="g52590">
+          <rect
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:7.92012;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect1068"
+             width="804.1402"
+             height="51.640472"
+             x="160.4299"
+             y="1488.5815"
+             ry="18.818472" />
+          <rect
+             style="fill:url(#linearGradient52177);fill-opacity:1;fill-rule:evenodd;stroke-width:0.840998;stroke-linecap:round;stroke-linejoin:round"
+             id="rect1172"
+             width="315.40317"
+             height="51.640472"
+             x="160.4299"
+             y="1488.5815"
+             ry="18.818472" />
+        </g>
+        <text
+           xml:space="preserve"
+           id="text11082"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:1.25;font-family:Sarala;-inkscape-font-specification:Sarala;letter-spacing:0px;white-space:pre;shape-inside:url(#rect11084);fill:#ffffff;fill-opacity:1"
+           transform="translate(-106.34673,33.807148)"><tspan
+             x="338.96289"
+             y="1439.0685"
+             id="tspan1019">You're 27% finished with your itinerary.</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       id="text30220"
+       style="line-height:1.25;font-family:Ubuntu;font-size:16px;-inkscape-font-specification:'Ubuntu Light';font-weight:300;letter-spacing:0px;white-space:pre;shape-inside:url(#rect30222)" />
+    <text
+       xml:space="preserve"
+       id="text23760"
+       style="font-weight:300;font-size:32px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';letter-spacing:0px;white-space:pre;shape-inside:url(#rect23762);fill:#aba8a8;fill-opacity:1"
+       transform="translate(11.286796,-359.77944)"><tspan
+         x="166.61133"
+         y="1742.203"
+         id="tspan1023"><tspan
+           style="font-weight:normal;font-family:Poppins;-inkscape-font-specification:Poppins"
+           id="tspan1021">Your Upcoming Tasks</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text46995"
+       style="font-weight:300;font-size:64px;line-height:1.45;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';letter-spacing:0px;white-space:pre;shape-inside:url(#rect46997)"
+       transform="translate(162.94531,-360.24934)"><tspan
+         x="166.61133"
+         y="1824.4408"
+         id="tspan1027"><tspan
+           style="font-weight:normal;font-family:Sarala;-inkscape-font-specification:Sarala;fill:#ffffff"
+           id="tspan1025">Break
+</tspan></tspan><tspan
+         x="166.61133"
+         y="1922.9568"
+         id="tspan1031"><tspan
+           style="font-weight:normal;font-family:Sarala;-inkscape-font-specification:Sarala;fill:#ffffff"
+           id="tspan1029">Pre-Calculus
+</tspan></tspan><tspan
+         x="166.61133"
+         y="2021.4728"
+         id="tspan1035"><tspan
+           style="font-weight:normal;font-family:Sarala;-inkscape-font-specification:Sarala;fill:#ffffff"
+           id="tspan1033">Long Break
+</tspan></tspan><tspan
+         x="166.61133"
+         y="2119.9889"
+         id="tspan1039"><tspan
+           style="font-weight:normal;font-family:Sarala;-inkscape-font-specification:Sarala;fill:#ffffff"
+           id="tspan1037">Creative Writing
+</tspan></tspan></text>
+    <g
+       id="g4106">
+      <text
+         xml:space="preserve"
+         id="text163409"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins Light';letter-spacing:0px;white-space:pre;shape-inside:url(#rect163411)"
+         transform="translate(1.66631,-396.53698)"><tspan
+           x="188.17773"
+           y="1854.666"
+           id="tspan1043"><tspan
+             style="fill:#ffffff"
+             id="tspan1041">5:00</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         id="text163409-5"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins Light';letter-spacing:0px;white-space:pre;shape-inside:url(#rect163411-0)"
+         transform="translate(-7.14967,-298.38078)"><tspan
+           x="188.17773"
+           y="1854.666"
+           id="tspan1047"><tspan
+             style="fill:#ffffff"
+             id="tspan1045">25:00</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         id="text163409-5-9"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins Light';letter-spacing:0px;white-space:pre;shape-inside:url(#rect163411-0-2)"
+         transform="translate(-2.34969,-200.04159)"><tspan
+           x="188.17773"
+           y="1854.666"
+           id="tspan1051"><tspan
+             style="fill:#ffffff"
+             id="tspan1049">15:00</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         id="text163409-5-9-2"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins Light';letter-spacing:0px;white-space:pre;shape-inside:url(#rect163411-0-2-0)"
+         transform="translate(-7.14967,-101.52287)"><tspan
+           x="188.17773"
+           y="1854.666"
+           id="tspan1055"><tspan
+             style="fill:#ffffff"
+             id="tspan1053">25:00</tspan></tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#838383;stroke-width:1.04952px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 295.30182,1423.2685 v 344.1753"
+       id="path228632" />
+  </g>
+</svg>
