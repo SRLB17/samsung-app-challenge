@@ -1,8 +1,8 @@
-export const Task {
+export class Task {
   constructor(name, duration, urgency) {
     this.name = this.validateInput(name, "string");
     this.duration = this.validateInput(duration, "number");
-    this.urgency = //this.validateInput(urgency, "string", ["high", ,"low"];
+    this.urgency = this.validateInput(urgency, "string", ["highest","high", "none", "low" ,"lowest"];
     this.timeLeft = duration;
   }
   
