@@ -1,9 +1,10 @@
-export class Task {
-  constructor(name, duration, urgency) {
+class Task {
+  constructor(name, duration, urgency="none") {
     this.name = this.validateInput(name, "string");
     this.duration = this.validateInput(duration, "number");
-    this.urgency = this.validateInput(urgency, "string", ["highest","high", "none", "low" ,"lowest"];
+    this.urgency = this.validateInput(urgency, "string", ["highest","high", "none", "low" ,"lowest"]);
     this.timeLeft = duration;
+    this.id = null; //gets assigned when loaded by TaskManager
   }
   
   validateInput(input, type, values=null) {
@@ -14,10 +15,10 @@ export class Task {
         throw new Error(`"input" not of type ${type}`);
       } else {
         if(values) {
-          if(!values.isArray()) {
+          if(!Array.isArray(values)) {
             throw new Error('"values" must be an array'); 
           } else {
-            if(!values.includes(input) {
+            if(!values.includes(input)) {
               throw new Error("Non-valid input"); 
             } else {
               return input; 
