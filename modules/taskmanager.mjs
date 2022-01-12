@@ -1,6 +1,6 @@
-import Task from "./tasks.mjs";
+//import Task from "./tasks.mjs";
 
-export const TaskManager = {
+/*export*/ const TaskManager = {
 	taskStack: [],
 	idCount: 0,
 	addTask(task) {

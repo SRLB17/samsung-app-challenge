@@ -1,4 +1,4 @@
-class Task {
+/*export*/ class Task {
   constructor(name, duration, urgency="none") {
     this.name = this.validateInput(name, "string");
     this.duration = this.validateInput(duration, "number");
